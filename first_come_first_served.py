@@ -30,11 +30,9 @@ def fcfs(processes, n):
             table.append(row)
             time.sleep(1)
             process.burstTime -= 1
-            # concatenate the old ms value with the new one
             antigo = linha
             linha = antigo + " " + str(ms)
             ms += 1
-            # print the updated row with the new time next to the old one
             screen.addstr(i+2, 0, row[0])
             screen.addstr(i+2, 15, linha)
             screen.refresh()
