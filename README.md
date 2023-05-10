@@ -4,7 +4,7 @@ Simulador de Fila de Prontos desenvolvido em Python com os algoritmos First Come
 ## Execução
 1. Primeiramente, digite no terminal para clonar o repositório:
     ```
-    git clone https://github.com/IsabelaRezendeB/DjangoRestAPI-ReservApp.git
+    git clone [https://github.com/IsabelaRezendeB/DjangoRestAPI-ReservApp.git](https://github.com/IsabelaRezendeB/C012-Trabalho2.git)
     ```
 
 2. Após instalar o projeto, digite no terminal os seguintes comandos para instalar as dependências:
